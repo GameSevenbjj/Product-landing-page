@@ -203,6 +203,7 @@ footer {
     background-color: white;
     height: 50px;
     border-radius: 20px;
+    word-wrap: break-word;
     
     width: 100%;
 }
